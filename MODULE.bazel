@@ -19,7 +19,7 @@ bazel_dep(
 )
 bazel_dep(
     name = "platforms",
-    version = "0.0.10",
+    version = "ppc64le",
 )
 bazel_dep(
     name = "rules_cc",
